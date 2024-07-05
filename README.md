@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amila Madhusankha</h1>
 <h3 align="center">Full Stack Developer passionate about building scalable web applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhusankha90" alt="madhusankha90" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amila-madhusankha90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amila-madhusankha90" height="30" width="40" /></a>
