@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amila Madhusankha</h1>
 <h3 align="center">Full Stack Developer passionate about building scalable web applications</h3>
-<h3 align="center">Undergraduate BSc (Honors) in Computing and Information Systems, Sabaragamuwa University of Sri Lanka</h3>
+<h4 align="center">Undergraduate BSc (Honors) in Computing and Information Systems, Sabaragamuwa University of Sri Lanka</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusankha90&label=Profile%20views&color=0e75b6&style=flat" alt="madhusankha90" /> </p>
 
